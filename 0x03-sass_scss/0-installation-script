@@ -1,0 +1,5 @@
+the steps I took to install SASS
+step 1 - writing acommand in my terminal
+      npm install sass --save-dev
+step 2- checking
+      npx sass --version
